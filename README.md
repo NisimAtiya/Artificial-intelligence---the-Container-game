@@ -1,4 +1,4 @@
-#Liquid Puzzle Solver
+# Liquid Puzzle Solver
 
 Overview:
 This program is a solver for the Liquid Puzzle game. The Liquid Puzzle is a puzzle game where the goal is to separate colors in different tubes by moving them between tubes following specific rules.
